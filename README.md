@@ -1,2 +1,2 @@
 # -Etch-a-Sketch
-Odin Project
+Odin Tutorial Project
